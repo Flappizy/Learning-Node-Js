@@ -1,0 +1,145 @@
+			List of Courses on Microsoft Learn
+1. Administer infrastructure resources in Azure
+	* Create a Linux virtual machine in Azure
+	* Create a Windows virtual machine in Azure
+	* Manage virtual machines with the Azure CLI
+	* Keep your virtual machines updated
+	* Configure the network for your virtual machines
+	* Deploy Azure infrastructure by using JSON ARM templates
+	* Add and size disks in Azure virtual machines
+	* Caching and performance in Azure storage disks
+	* Secure your Azure virtual machine disks
+	* Protect your virtual machine settings with Azure Automation State Configuration
+	* Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts
+
+2. Manage resources in Azure
+	* Align requirements with cloud types and service models in Azure
+	* Manage identity and access in Azure Active Directory
+	* Microsoft 365 - Modernize your enterprise deployment with Windows devices and Microsoft 365 Apps
+	* Manage your enterprise deployment with Microsoft 365
+	* Get started with Finance and Operations apps
+
+3. Get started building with Power BI
+4. Microsoft Azure Fundamentals: Describe core solutions and management tools on Azure
+5. Learn how Microsoft safeguards customer data
+	* Understand Microsoft 365 governance
+	* Understand Microsoft 365 risk management
+	* Understand Microsoft 365 cloud architecture
+	* Understand Microsoft 365 security incident management
+	* Understand Microsoft 365 identity and access management
+	* Understand Microsoft 365 audit logging and monitoring
+	* Understand Microsoft 365 vulnerability management and security monitoring
+	* Understand Microsoft 365 resiliency and continuity
+	* Understand Microsoft 365 security development and operation
+	* Understand Microsoft 365 encryption
+	* Understand Microsoft 365 privacy
+	* Understand Microsoft 365 subprocessor management
+	* Understand Microsoft datacenter security
+6. Reduce risk with Microsoft Compliance Manager
+	* Understand today’s compliance landscape
+	* Learn Microsoft Compliance Manager concepts
+	* Explore Microsoft Compliance Manager
+7. Understand Microsoft 365 cloud architecture
+	* Introduction to Microsoft 365 architecture
+	* Explore the security principles of Microsoft 365 architecture
+	* Understand network, service, and tenant isolation in Microsoft 365
+	* Understand how Microsoft defends from DoS attacks
+	* Understand Microsoft 365 resiliency
+	* Explore how Microsoft 365 performs architecture validation
+8. Understand Microsoft 365 security incident management
+9. Understand Microsoft 365 identity and access management
+10. Understand Microsoft 365 encryption
+11. Understand Microsoft 365 privacy
+12. Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure
+	* Getting started with the Microsoft Cloud Adoption Framework for Azure
+	* Prepare for successful cloud adoption with a well-defined strategy
+	* Prepare for cloud adoption with a data-driven plan
+	* Choose the best Azure landing zone to support your requirements for cloud operations
+	* Migrate to Azure through repeatable processes and common tools
+	* Address tangible risks with the Govern methodology of the Cloud Adoption Framework for Azure
+	* Ensure stable operations and optimization across all supported workloads deployed to the cloud
+	* Innovate applications by using Azure cloud technologies
+13. Course MB-310T00-A: Microsoft Dynamics 365 Finance
+	Module summary
+	* Module 1: Overview of Dynamics 365 Finance
+	* Module 2: Set up and configure financial management
+	* Module 3: Implement and manage shared configuration for A/P and A/R	
+	* Module 4: Implement and manage accounts payable
+	* Module 5: Implement and manage expense management
+	* Module 6: Implement and manage accounts receivable and credit and collections
+	* Module 7: Configure and manage budgeting
+	* Module 8: Configure and manage fixed assets
+14. Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations
+	Module Summary
+	* Module 1: Use common functionality and implementation tools
+	* Module 2: Configure administrative features and workflows
+	* Module 3: Manage Dynamics 365 Finance and Operation data
+	* Module 4: Validate and support the solution
+15. Course MB-500T00: Microsoft Dynamics 365: Finance and Operations Apps Developer
+	Module Summary
+	* Module 1: Overview & Architecture
+	* Module 2: Developer Tools
+	* Module 3: Solution Design
+	* Module 4: AOT Elements
+	* Module 5: Code Development & Testing
+	* Module 6: Data Migration
+	* Module 7: Frameworks
+	* Module 8: Integration
+	* Module 9: Reporting
+	* Module 10: Security & Performance
+16. Course MB-700T00: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect
+	* Module 1: The architect role
+	* Module 2: Manage interactions with FastTrack
+	* Module 3: Solution blueprint
+	* Module 4: Define environments, tools, and deployment strategy
+	* Module 5: Determine data management strategy
+	* Module 6: Determine integration and interfaces strategies
+	* Module 7: Define security architecture
+	* Module 8: Define testing strategy
+	* Module 9: Define performance testing strategy
+	* Module 10: Business intelligence and reporting
+	* Module 11: Determine licensing and support
+	* Module 12: Prepare for go-live
+17. Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration
+	* Module 1: Whiteboard Design Session - Line-of-business application migration
+	* Module 2: Hands-On Lab - Line-of-business application migration
+18. Course MB-800T00: Microsoft Dynamics 365 Business Central Functional Consultant
+	* Module 1: Introduction to Business Central
+	* Module 2: Application Setup
+	* Module 3: Configure Financials
+	* Module 4: Configure Sales and Purchasing
+	* Module 5: Operations
+	* Module 6: Integration and Automation
+19. Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation
+	* Module 1: Whiteboard Design Session - AI led business process automation
+	* Module 2: Hands-on Lab - AI led business process automation
+20. Course MS-101T00: Microsoft 365 Mobility and Security
+	* Module 1: Explore security metrics in Microsoft 365
+	* Module 2: Manage your Microsoft 365 security services
+	* Module 3: Implement threat intelligence in Microsoft 365
+	* Module 4: Introduction to Data Governance in Microsoft 365
+	* Module 5: Implement data governance in Microsoft 365
+	* Module 6: Manage data governance in Microsoft 365
+	* Module 7: Manage content search and investigations in Microsoft 365
+	* Module 8: Prepare for device management in Microsoft 365
+	* Module 9: Plan your Windows 10 deployment strategy
+	* Module 10: Implement Mobile Device Management in Microsoft 365
+21. Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals
+	* Module 1: Understanding the cyber-security landscape
+	* Module 2: Red Team: Penetration, Lateral Movement, Escalation, and Exfiltration
+	* Module 3: Blue Team Detection, Investigation, Response, and Mitigation
+	* Module 4: Organizational Preparations
+22. Course 40555-A: Microsoft Security Workshop: Implementing PowerShell Security Best Practices
+	* Module 1: PowerShell Fundamentals
+	* Module 2: PowerShell Operational Security
+	* Module 3: Implementing PowerShell-based Security
+	* Module 4: Windows PowerShell-based Exploits and their Mitigation
+23. Course SC-200T00: Microsoft Security Operations Analyst
+	* Module 1: Mitigate threats using Microsoft 365 Defender
+	* Module 2: Mitigate threats using Microsoft Defender for Endpoint
+	* Module 3: Mitigate threats using Microsoft Defender for Cloud
+	* Module 4: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+	* Module 5: Configure your Microsoft Sentinel environment
+	* Module 6: Connect logs to Microsoft Sentinel
+	* Module 7: Create detections and perform investigations using Microsoft Sentinel
+	* Module 8: Perform threat hunting in Microsoft Sentinel

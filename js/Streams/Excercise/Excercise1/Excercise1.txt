@@ -1,0 +1,52 @@
+
+//The below step explains how to use the create resident endpoint.
+1. Get a token from this endpoint https://lyticalfamanapp.azurewebsites.net/api/Token/getToken
+payload expected - {
+  			"name": "string",
+  			"password": "string"
+		   }
+
+successful response(200) - "yourToken",
+
+
+2. Send a post request to create a resident to this endpoint https://lyticalfamanapp.azurewebsites.net/api/Resident/createResidents
+payload expected - {
+  			"firstName": "string",
+  			"lastName": "string",
+  			"email": "user@example.com",
+  			"phone": "string",
+  			"gender": "string",
+  			"maritalStatus": "string",
+  			"houseInfo": {
+    				"address": "string",
+    				"houseType": "string",
+    				"houseId": "string"
+  			},
+  			"estate": {
+    				"name": "string",
+    				"address": "string"
+  			}
+		    }
+
+
+//The below step explains how to use the create dependants endpoint.
+1. Send a post request to create a single or collection of residents to this endpoint https://lyticalfamanapp.azurewebsites.net/api/Resident/createDependants
+payload expected - [
+		    {
+  			"firstName": "string",
+  			"lastName": "string",
+  			"email": "user@example.com",
+  			"phone": "string",
+  			"gender": "string",
+  			"maritalStatus": "string",
+  			"houseInfo": {
+    				"address": "string",
+    				"houseType": "string",
+    				"houseId": "string"
+  			},
+  			"estate": {
+    				"name": "string",
+    				"address": "string"
+  			}
+		    }
+		   ]

@@ -1,0 +1,31 @@
+{
+  "name": "01-web-spider",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=14"
+  },
+  "engineStrict": true,
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "chance": "^1.1.9",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-parse": "^5.3.3",
+    "lazystream": "^1.0.1",
+    "mkdirp": "^0.5.5",
+    "parallel-transform": "^1.2.0",
+    "pumpify": "^2.0.1",
+    "slug": "^1.1.0",
+    "split": "^1.0.1",
+    "superagent": "^5.2.2"
+  },
+  "devDependencies": {}
+}
