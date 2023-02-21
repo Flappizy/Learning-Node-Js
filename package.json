@@ -20,6 +20,7 @@
     "cheerio": "^1.0.0-rc.12",
     "csv-parse": "^5.3.3",
     "lazystream": "^1.0.1",
+    "level": "^8.0.0",
     "mkdirp": "^0.5.5",
     "parallel-transform": "^1.2.0",
     "pumpify": "^2.0.1",
