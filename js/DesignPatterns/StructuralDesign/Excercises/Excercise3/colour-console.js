@@ -1,7 +1,4 @@
 import styles from 'ansi-styles';
-
-const enhancedConsoleMethods = [ 'red', 'yellow', 'green' ];
-
 const handler = {
     get: (target, prop) => {
         if (prop === 'yellow') {
