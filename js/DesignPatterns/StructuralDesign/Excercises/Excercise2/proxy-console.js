@@ -5,7 +5,8 @@ const handler = {
         if (logMethods.includes(prop)) {
             return function(...args) {
                 target[prop](`${new Date()}: ${args}`);
-            }               
+            }   
+            
         }
         return target[prop];
     }
