@@ -15,11 +15,13 @@ async function main () {
     iniConfig.set('position', '1');
     iniConfig.set('color', 'red');
     await iniConfig.save('conf_mod.ini');
+    console.log(iniConfig.get('name'));
 
     const jsonConfig = new Config(jsonStrategy);
     await jsonConfig.load('config.json');
     jsonConfig.set('book.nodejs', 'design patterns');
     await jsonConfig.save('conf_mod.json');
+    console.log(jsonConfig.get('name'));
 }
 
 main();
