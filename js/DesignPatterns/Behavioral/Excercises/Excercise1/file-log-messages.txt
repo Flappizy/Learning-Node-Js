@@ -1,0 +1,4 @@
+Tue Mar 14 2023 10:45:07 GMT+0100 (West Africa Standard Time): INFO: I am going to be a very good software developer
+Tue Mar 14 2023 10:45:07 GMT+0100 (West Africa Standard Time): DEBUG: I am debugging Ibukun
+Tue Mar 14 2023 10:45:07 GMT+0100 (West Africa Standard Time): WARN: Warning Ibukun
+Tue Mar 14 2023 10:45:07 GMT+0100 (West Africa Standard Time): ERROR: Error Error Error

@@ -1,0 +1,5 @@
+
+Tue Mar 14 2023 11:50:25 GMT+0100 (West Africa Standard Time): INFO: 1,2,3
+Tue Mar 14 2023 11:50:25 GMT+0100 (West Africa Standard Time): DEBUG: Hello to debugging ,Debugging Ibukun
+Tue Mar 14 2023 11:50:25 GMT+0100 (West Africa Standard Time): WARN: Hello to warning ,Warning Ibukun
+Tue Mar 14 2023 11:50:25 GMT+0100 (West Africa Standard Time): ERROR: Hello to error ,ERROR ERROR ERROR
