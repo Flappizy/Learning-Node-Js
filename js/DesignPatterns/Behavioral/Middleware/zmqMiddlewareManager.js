@@ -4,8 +4,8 @@ export class ZmqMiddlewareManager{
         this.inboundMiddlewares = [];
         this.outboundMiddlerwares = [];
 
-        /*this.handleIncomingMessages()
-            .catch(err => console.log(err));*/
+        this.handleIncomingMessages()
+            .catch(err => console.log(err));
     }
 
     async handleIncomingMessages() {
@@ -33,9 +33,6 @@ export class ZmqMiddlewareManager{
         let message = initialMessage;
         for await (const middlewareFunc of middlewares) {
             message = await middlewareFunc.call(this, message)
-        }
-        for await (const middlewareFunc of middlewares) {
-            message = await middlewareFunc.call(this, message);
         }
         return message;
     }
